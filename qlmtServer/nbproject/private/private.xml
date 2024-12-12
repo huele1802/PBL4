@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/netBeans/qlmtServer/src/View/ServerJFrame.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/View/AddAccount.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/Bean/Custom.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Controller/ServerController.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/Bean/DbConnect.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/DAO/accountDAO.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/Bean/ClientSocketModel.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/BO/accountBO.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/Bean/Account.java</file>
+            <file>file:/D:/netBeans/qlmtServer/src/Model/Bean/serialization.java</file>
+        </group>
+    </open-files>
+</project-private>
